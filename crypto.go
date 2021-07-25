@@ -3,7 +3,7 @@ package crypto
 import (
 	"errors"
 
-	"github.com/Gessiux/neatchain/common"
+	"github.com/Gessiux/neatchain/utilities/common"
 )
 
 func CheckConsensusPubKey(from common.Address, consensusPubkey, signature []byte) error {
