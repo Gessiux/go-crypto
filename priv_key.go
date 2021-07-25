@@ -9,7 +9,7 @@ import (
 	. "github.com/Gessiux/go-common"
 	"github.com/Gessiux/go-data"
 	"github.com/Gessiux/go-wire"
-	ethcrypto "github.com/Gessiux/neatchain/crypto"
+	ethcrypto "github.com/Gessiux/neatchain/utilities/crypto"
 	secp256k1 "github.com/btcsuite/btcd/btcec"
 )
 
